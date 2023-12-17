@@ -4,6 +4,13 @@
 Finance, B.S.
 Morgan State University
 
+### Technical Skills
+- Python (beginner)
+- SQL (proficient)
+- Excel (competent)
+- Tableau (competent)
+- Alteryx (competent)
+  
 ### Work Experience
 Financial Operations Support Analyst @ JP Morgan Chase & Co., Corporate Sector Financial Planning and Analysis (August 2022 - Present)
 - Tracked financial planning & analysis platform metrics and key performance indicators (for 4 platforms) by building ServiceNow dashboards and Tableau dashboards sourced from webpage URL and Oracle database data sourced using Excel, SQL and Python
