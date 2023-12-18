@@ -2,7 +2,7 @@
 
 ### Education
 Finance, B.S.
-Morgan State University, 3.63 gpa
+Morgan State University | GPA 3.63
 
 ### Technical Skills
 - Python (beginner)
