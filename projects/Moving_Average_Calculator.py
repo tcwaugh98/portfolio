@@ -21,7 +21,7 @@ ewmaString = "EWMA_"+str(rangema)
 dfstockdata[smaString]=dfstockdata.iloc[:,4].rolling(window=rangema).mean()
 dfstockdata[ewmaString]=dfstockdata.iloc[:,4].ewm(span=rangema, adjust=False).mean()
 
-print(dfstockdata)
+print(dfstockdata.head(-5))
 
 # adds the simple and exponentially-weighted moving averages desired as a field (the fourth field from the right, adj close here),
 # calculating based on each adj close for every date/row
