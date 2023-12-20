@@ -3,21 +3,11 @@ import numpy as mp
 import yfinance as yf
 import datetime as dt
 from pandas_datareader import data as pdr
-from datetime import timedelta
 
 yf.pdr_override()
 
 stock = input("Enter stock ticker symbol: ")
 print(stock)
-
-startyear=2018
-startmonth=1
-startday=1
-start=dt.datetime(startyear,startmonth,startday)
-end = dt.datetime(2020,1,9)
-now = dt.datetime.now()
-today = dt.datetime.today()
-yesterday = today - timedelta(days=1)
 
 dfstockdata = pdr.get_data_yahoo(stock,)
 
