@@ -5,7 +5,7 @@ Finance, B.S.
 Morgan State University | GPA 3.63
 
 ### Technical Skills
-- Python (beginner)
+- Python (proficient)
 - SQL (proficient)
 - Excel (competent)
 - Tableau (competent)
