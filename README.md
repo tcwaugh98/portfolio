@@ -27,9 +27,10 @@ Metrics and Transparency Analyst @ JP Morgan Chase & Co., Commercial Bank Middle
 - Executed routine (daily, monthly, quarterly) reporting and ad-hoc requests related to client accounts, sales, and service products utilizing SQL, Python, and Excel
 
 ### Projects
+- Simple and Exponential Moving Average Calculator (Python)
 - Fama-French 3 factor model (Python)
 - Fama-French 4 factor model (Python - TBD)
 - Buy/Sell indicator-driven strategy backtesting model (Python - TBD)
-- Portfolio Optimizer (Python - TBD)
+- Portfolio Optimizer  using Basic Mean Variance Optimization (Python - TBD)
 - Linear regression template (Python - TBD)
 - Option pricing model (Python - TBD)
