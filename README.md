@@ -8,9 +8,9 @@ Morgan State University | GPA 3.63
 Utilizes the National Institutes of Health proficiency scale
 - Python (intermediate)
 - SQL (intermediate)
-- Excel (Advanced)
-- Tableau (Advanced)
-- Alteryx (Advanced)
+- Excel (advanced)
+- Tableau (advanced)
+- Alteryx (intermediate)
   
 ### Work Experience
 Financial Operations Support Analyst @ JP Morgan Chase & Co., Corporate Sector Financial Planning and Analysis (August 2022 - Present)
