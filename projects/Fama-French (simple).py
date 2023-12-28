@@ -1,8 +1,7 @@
 
-# Fama-French Three or Five Factor Model
-# It uses additional risk factors besides market risk to interpret asset returns and calculate an estimated or 
-# expected return required for adding the asset to ones portfolio
-# The betas (bERP, bSMB, bHML, etc.) are the factor coefficients. For now, they're simple correlations between the subject stock price and the factor representative share price 
+# Fama-French Three Factor Model with simple correlation based factor coefficient
+
+# The betas (bERP, bSMB, bHML, etc.) are used as the factor coefficients. For now, they're simple correlations between the subject stock price and the factor representative share price 
 
 #     MKT = the excess return of the market over the risk-free rate. 
 #         Basically, the additional return required to invest in an asset exposed to market and credit risk versus one exposed to none.
@@ -14,8 +13,6 @@
 #         Basically, the additional return required to invest in an asset based on its value despite lower growth 
 #         opportunities vs the growth stocks that boast a risky but attainable high return
 
-#     Five Factor Fama-French adds RMW and CMA
-#     RMW = Robust minus Wea and measures the excess returns
 
 
 import pandas as pd
